@@ -75,4 +75,4 @@ The following task is advanced and therefore optional.
 
 Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
 
-The analysis required training from bootcamp to be able to undertsand the nature of interactive dashboards. Communication was fundamental with partners to have an interactive dashboard. 
+
